@@ -1,4 +1,5 @@
-
+## Time 
+5-6 Hours 
 
 ## Resources
 link: https://www.think-cell.com/en/career/jobs/development
